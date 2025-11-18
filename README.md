@@ -28,18 +28,14 @@ Para executar este projeto, você precisa ter o Python 3.x instalado.
 
 1.  Clone este repositório:
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO_AQUI]
+    git clone https://github.com/camposdigo/GS2PCAP
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [NOME_DA_PASTA_DO_PROJETO]
+    cd GS2PCAP
     ```
 3.  Execute o arquivo `main.py`:
     ```bash
     python main.py
     ```
 4.  Siga as instruções no terminal para analisar seu perfil.
-
-## 📸 Demonstração
-
-*(Opcional: Adicione aqui um print da tela do seu terminal executando o programa)*
