@@ -39,3 +39,10 @@ Para executar este projeto, você precisa ter o Python 3.x instalado.
     python main.py
     ```
 4.  Siga as instruções no terminal para analisar seu perfil.
+
+## 📺 Demonstração
+
+<img width="706" height="224" alt="image" src="https://github.com/user-attachments/assets/47845367-c0e2-4605-965b-f06727b2e761" />
+
+
+
